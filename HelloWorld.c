@@ -6,3 +6,8 @@ tratata2
 
 
 Motor is rotating
+
+
+
+
+Jenia testing 
